@@ -9,11 +9,11 @@ const Navbar = () => {
   return (
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
-        <Nav className="me-auto">
+        <Nav>
           {/* <Nav.Link to="/store" as={NavLink}>
             Store
           </Nav.Link> */}
-          <h1>Welcome</h1>
+          <h1>STORE</h1>
         </Nav>
         {cartQuantity > 0 && (
           <Button

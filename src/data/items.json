@@ -22,5 +22,17 @@
       "name": "Car",
       "price": 14000,
       "imgUrl": "/imgs/car.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cup",
+      "price": 500,
+      "imgUrl": "/imgs/Cup.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Rolex watch",
+      "price": 2000,
+      "imgUrl": "/imgs/Watch.jpg"
     }
   ]
